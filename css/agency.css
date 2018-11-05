@@ -569,6 +569,5 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 @media screen and (max-width: 768px) {
   #traducciones .section-heading{
     font-size: 35px;
-    color: orange;
   }
 }
