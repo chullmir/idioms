@@ -62,6 +62,7 @@ section#team .cualidades .icono-cualidades i{
   font-size: 74px;
 }
 @media (min-width: 768px) {
+
   section {
     padding: 150px 0;
   }
@@ -148,6 +149,7 @@ img::-moz-selection {
 }
 
 @media (min-width: 992px) {
+
   #mainNav {
     padding-top: 25px;
     padding-bottom: 25px;
@@ -234,6 +236,7 @@ header.masthead .intro-text .intro-heading {
     margin-bottom: 50px;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
+
 }
 
 .service-heading {
@@ -360,6 +363,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 768px) {
+
   .timeline:before {
     left: 50%;
   }
@@ -392,6 +396,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 992px) {
+
   .timeline > li {
     min-height: 150px;
   }
@@ -414,6 +419,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 1200px) {
+
   .timeline > li {
     min-height: 170px;
   }
@@ -559,4 +565,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   font-size: 30px;
   font-weight: bold;
   
+}
+@media screen and (max-width: 768px) {
+  #traducciones .section-heading{
+    font-size: 35px;
+    color: orange;
+  }
 }
